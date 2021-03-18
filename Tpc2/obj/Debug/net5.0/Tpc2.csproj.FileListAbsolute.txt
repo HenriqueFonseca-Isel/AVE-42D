@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Isel\AVE\Tpc2\bin\Debug\net5.0\Tpc2.exe
+C:\Users\user\Desktop\Isel\AVE\Tpc2\bin\Debug\net5.0\Tpc2.deps.json
+C:\Users\user\Desktop\Isel\AVE\Tpc2\bin\Debug\net5.0\Tpc2.runtimeconfig.json
+C:\Users\user\Desktop\Isel\AVE\Tpc2\bin\Debug\net5.0\Tpc2.runtimeconfig.dev.json
+C:\Users\user\Desktop\Isel\AVE\Tpc2\bin\Debug\net5.0\Tpc2.dll
+C:\Users\user\Desktop\Isel\AVE\Tpc2\bin\Debug\net5.0\ref\Tpc2.dll
+C:\Users\user\Desktop\Isel\AVE\Tpc2\bin\Debug\net5.0\Tpc2.pdb
+C:\Users\user\Desktop\Isel\AVE\Tpc2\obj\Debug\net5.0\Tpc2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Isel\AVE\Tpc2\obj\Debug\net5.0\Tpc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Isel\AVE\Tpc2\obj\Debug\net5.0\Tpc2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Isel\AVE\Tpc2\obj\Debug\net5.0\Tpc2.AssemblyInfo.cs
+C:\Users\user\Desktop\Isel\AVE\Tpc2\obj\Debug\net5.0\Tpc2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Isel\AVE\Tpc2\obj\Debug\net5.0\Tpc2.dll
+C:\Users\user\Desktop\Isel\AVE\Tpc2\obj\Debug\net5.0\ref\Tpc2.dll
+C:\Users\user\Desktop\Isel\AVE\Tpc2\obj\Debug\net5.0\Tpc2.pdb
+C:\Users\user\Desktop\Isel\AVE\Tpc2\obj\Debug\net5.0\Tpc2.genruntimeconfig.cache
